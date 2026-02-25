@@ -9,3 +9,9 @@ This repo serves as an example app for the purposes of demonstrating unit and en
 ```
 npm install
 ```
+
+### Running the project
+
+```
+npm run dev
+```
